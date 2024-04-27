@@ -23,4 +23,6 @@
 
 Coming soon
 
+## NodeJS
 
+- Client library for building plugins <a href="https://github.com/streamshield/nodejs-plugin">https://github.com/streamshield/nodejs-plugin</a>
