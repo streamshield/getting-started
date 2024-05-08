@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./SS_LOGO_PRIMARY.png" style="height: 80px;"/>
+<img src="./SS_BLUE_GREEN_LOGO.png" style="height: 80px;"/>
 </div>
 
 <h3 align="center">Content Moderation at Scale</h3>
