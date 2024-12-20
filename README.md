@@ -17,15 +17,15 @@
 
 ## Wordpress
 
--   Official plugin at <a href="https://wordpress.org/plugins/streamshield/" target="_new">https://wordpress.org/plugins/streamshield/</a>
+-   Official plugin at <a href="https://wordpress.org/plugins/streamshield/" target="_blank">https://wordpress.org/plugins/streamshield/</a>
 
 ## Drupal
 
--   Official plugin at <a href="https://www.drupal.org/project/streamshield" target="_new">https://www.drupal.org/project/streamshield</a>
+-   Official plugin at <a href="https://www.drupal.org/project/streamshield" target="_blank">https://www.drupal.org/project/streamshield</a>
 
 ## NodeJS
 
--   Client library for building plugins <a href="https://github.com/streamshield/nodejs-plugin">https://github.com/streamshield/nodejs-plugin</a>
+-   Client library for building plugins <a href="https://github.com/streamshield/nodejs-plugin" target="_blank">https://github.com/streamshield/nodejs-plugin</a>
 
 ## Zapier
 
